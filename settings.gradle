@@ -1,0 +1,2 @@
+rootProject.name = "EightModulLesson2(NDK)"
+include ':app'
